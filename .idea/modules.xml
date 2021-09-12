@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo/MoneyConverter/MoneyConverter.iml" filepath="$PROJECT_DIR$/demo/MoneyConverter/MoneyConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringB5HomeWorkGg/SpringB5HomeWorkGg.iml" filepath="$PROJECT_DIR$/SpringB5HomeWorkGg/SpringB5HomeWorkGg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fifth-homework-kubilaytuncbas.iml" filepath="$PROJECT_DIR$/.idea/fifth-homework-kubilaytuncbas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/odev4GgSpringB/odev4GgSpringB.iml" filepath="$PROJECT_DIR$/demo/odev4GgSpringB/odev4GgSpringB.iml" />
+    </modules>
+  </component>
+</project>
