@@ -2,7 +2,6 @@ package repository;
 
 
 import model.Course;
-import model.Student;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 

@@ -4,11 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c202d079-79ab-4be5-b66a-a780ac168b10" name="Changes" comment="" />
+    <list default="true" id="c202d079-79ab-4be5-b66a-a780ac168b10" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/odev4GgSpringB/src/main/java/controller/ExceptionLoggerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/odev4GgSpringB/src/main/java/controller/ExceptionLoggerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/odev4GgSpringB/src/main/java/exceptions/EducationAppErrorResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/odev4GgSpringB/src/main/java/model/EducationAppErrorResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/odev4GgSpringB/src/main/java/exceptions/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/odev4GgSpringB/src/main/java/exceptions/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/odev4GgSpringB/src/main/java/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/odev4GgSpringB/src/main/java/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/odev4GgSpringB/src/main/java/repository/CourseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/odev4GgSpringB/src/main/java/repository/CourseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/odev4GgSpringB/src/main/java/service/CourseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/odev4GgSpringB/src/main/java/service/CourseManager.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,11 +43,25 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringB5HomeWorkGgApplication">
+  <component name="RunManager" selected="Application.Odev4GgSpringBApplication">
+    <configuration name="Odev4GgSpringBApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.odev4ggspringb.Odev4GgSpringBApplication" />
+      <module name="odev4GgSpringB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.odev4ggspringb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MoneyConverterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="MoneyConverter" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.moneyconverter.MoneyConverterApplication" />
@@ -50,6 +83,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Odev4GgSpringBApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -62,10 +100,25 @@
       <workItem from="1631266129684" duration="341000" />
       <workItem from="1631361491195" duration="51000" />
       <workItem from="1631479471080" duration="134000" />
+      <workItem from="1631479727306" duration="830000" />
+      <workItem from="1631533960205" duration="2191000" />
+      <workItem from="1631542534241" duration="1475000" />
     </task>
+    <task id="LOCAL-00001" summary="....">
+      <created>1631479853230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631479853230</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="...." />
+    <option name="LAST_COMMIT_MESSAGE" value="...." />
   </component>
 </project>
